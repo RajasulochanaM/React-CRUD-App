@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8ac7d950.css","mappings":"AAAA,eAEC,yBAA2B,CAC3B,kBACD,CACA,KACC,wBACD","sources":["index.css"],"sourcesContent":["button,\n.button {\n\tmargin-bottom: 0 !important;\n\tmargin-right: .5rem;\n}\nbody{\n\tbackground-color: rgb(242, 248, 245);\n}\n"],"names":[],"sourceRoot":""}
